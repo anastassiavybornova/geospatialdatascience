@@ -210,5 +210,6 @@ __marimo__/
 !.pixi/config.toml
 
 ### Additional
+.DS_Store
 *_2024*
 *_2025*
