@@ -2,7 +2,7 @@ name: gds_py
 channels:
   - conda-forge
 dependencies:
-  - python=3.9
+  - python=3.11
   - mamba
   - notebook
   - jupyterhub
@@ -24,6 +24,7 @@ dependencies:
   - geopandas
   - geopy
   - gstools
+  - haversine
   - h3-py
   - hdbscan
   - ipyleaflet
@@ -60,6 +61,7 @@ dependencies:
   - scikit-mobility
   - seaborn
   - spatialpandas
+  - spaghetti
   - sqlalchemy
   - statsmodels
   - tabulate

@@ -8,7 +8,7 @@ version = "0.1.0"
 [tasks]
 
 [dependencies]
-python = "3.9.*"
+python = "==3.11"
 mamba = "*"
 notebook = "*"
 jupyterhub = "*"
@@ -83,3 +83,5 @@ topojson = "*"
 matplotlib-scalebar = "*"
 pytest-cov = "*"
 pytest-tornasync = "*"
+spaghetti = ">=1.7.6,<2"
+haversine = ">=2.9.0,<3"
